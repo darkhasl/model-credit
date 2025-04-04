@@ -6,7 +6,7 @@ import xgboost as xgb
 import pickle
 import matplotlib.pyplot as plt
 from sklearn.metrics import *
-import os
+import os 
 
 
 # Cargar la tabla transformada
